@@ -45,7 +45,6 @@
 <br/>
 
   [![erickdaniela](https://github-readme-stats.vercel.app/api/top-langs/?username=erickdaniela&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erickdaniela&hide=html&layout=compact&show_icons=true&theme=tokyonight)
 
 
 ## Onde me encontrar
