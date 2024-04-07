@@ -6,7 +6,7 @@
 - 🎓 Estudando {seu curso} no {faculdade}.
  -->
 - 💼 Estou atualmente em busca do meu primeiro emprego na área.
-- 🌱 estudando  ![React](https://img.shields.io/badge/-React-333333?logo=react) e  ![Node.js](https://img.shields.io/badge/Node.js-333333?logo=node.js).
+- 🎓 estudando  ![React](https://img.shields.io/badge/-React-333333?logo=react) e  ![Node.js](https://img.shields.io/badge/Node.js-333333?logo=node.js).
 
 ## Minhas Skills
 
