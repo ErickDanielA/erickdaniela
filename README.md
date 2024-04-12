@@ -5,7 +5,7 @@
 <!-- - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Técnico em Desenvolvimento de Sistemas pela Etec Guarulhos.
  -->
-**Técnico em Desenvolvimento de Sistemas pela Etec Guarulhos.**
+**Técnico em Desenvolvimento de Sistemas pela Etec de Guarulhos.**
   
 - 💼 Estou atualmente em busca do meu primeiro emprego na área.
 - 🎓 estudando  ![React](https://img.shields.io/badge/-React-333333?logo=react) e  ![Node.js](https://img.shields.io/badge/Node.js-333333?logo=node.js).
