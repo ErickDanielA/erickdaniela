@@ -8,7 +8,7 @@
 **Técnico em Desenvolvimento de Sistemas pela Etec de Guarulhos.**
   
 - 💼 Estou atualmente em busca do meu primeiro emprego na área.
-- 🎓 estudando  ![React](https://img.shields.io/badge/-React-333333?logo=react) ![Node.js](https://img.shields.io/badge/Node.js-333333?logo=node.js) e ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB).
+- 🎓 estudando  ![React](https://img.shields.io/badge/-React-333333?logo=react) ![Node.js](https://img.shields.io/badge/Node.js-333333?logo=node.js) e ![Express.js](https://img.shields.io/badge/express.js-333333?logo=express).
 
 ## Minhas Skills
 
