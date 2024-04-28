@@ -13,7 +13,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-333333?logo=node.js)
 ![Express.js](https://img.shields.io/badge/express.js-333333?logo=express)
 ![Next.js](https://img.shields.io/badge/next.js-333333?logo=next.js) 
- Tailwind CSS.
+![Tailwind CSS](https://img.shields.io/badge/tailwind-css-333333?logo=tailwind-css)
 
 ## Minhas Skills
 
