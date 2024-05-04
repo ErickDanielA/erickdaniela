@@ -11,7 +11,6 @@
 -  Estudando ![React](https://img.shields.io/badge/-React-333333?logo=react) 
 ![Node.js](https://img.shields.io/badge/Node.js-333333?logo=node.js)
 ![Express.js](https://img.shields.io/badge/express.js-333333?logo=express)
- &
 ![Next.js](https://img.shields.io/badge/Next.js-333333?logo=next.js) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-333333?logo=tailwind-css)
 
