@@ -5,7 +5,7 @@
 <!-- - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Técnico em Desenvolvimento de Sistemas pela Etec Guarulhos.
  -->
-**🎓 Técnico em Desenvolvimento de Sistemas pela Etec de Guarulhos.**
+**🎓 Técnico em Desenvolvimento de Sistemas pela Etec de Guarulhos.**<br>
 ** Cursando Análise e Desenvolvimento de Sistemas.**
   
 -  Em busca de um emprego.
