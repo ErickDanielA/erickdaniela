@@ -6,7 +6,7 @@
 - 🎓 Técnico em Desenvolvimento de Sistemas pela Etec Guarulhos.
  -->
 **🎓 Técnico em Desenvolvimento de Sistemas pela Etec de Guarulhos.**
-** Cursando Análise e Desenvolvimento de Sistemas**
+** Cursando Análise e Desenvolvimento de Sistemas.**
   
 -  Em busca de um emprego.
 -  Estudando ![React](https://img.shields.io/badge/-React-333333?logo=react) 
