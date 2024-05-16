@@ -54,7 +54,7 @@
   [![erickdaniela](https://github-readme-stats.vercel.app/api/top-langs/?username=erickdaniela&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Onde me encontrar
+## Onde você pode me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-erickdaniela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erickdaniela/)](https://www.linkedin.com/in/erickdaniela/)
 [![Gmail Badge](https://img.shields.io/badge/-danielkewem2018@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielkewem2018@gmail.com)](mailto:danielkewem2018@gmail.com)
