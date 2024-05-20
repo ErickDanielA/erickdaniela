@@ -7,8 +7,7 @@
  -->
 **🎓 Técnico em Desenvolvimento de Sistemas pela Etec de Guarulhos.**<br>
 **🎓 Cursando Análise e Desenvolvimento de Sistemas.**
-  
--  🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+ 
 -  Procurando emprego/estágio
 -  Estudando ![React](https://img.shields.io/badge/-React-333333?logo=react) 
 ![Node.js](https://img.shields.io/badge/Node.js-333333?logo=node.js)
