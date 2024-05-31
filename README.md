@@ -13,7 +13,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-333333?logo=node.js)
 ![Express.js](https://img.shields.io/badge/express.js-333333?logo=express)
 
-## Minhas Skills
+## My Skills
 
 **Linguagens e Frameworks**
 
