@@ -15,7 +15,7 @@
 
 ## My Skills
 
-**Linguagens e Frameworks**
+**Linguagens and Frameworks**
 
 
 ![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php)
