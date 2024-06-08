@@ -1,6 +1,6 @@
 <!-- [](https://komarev.com/ghpvc/?username=erickdaniela&color=006bed) -->
 
-## About mee
+## About me
 
 <!-- - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Técnico em Desenvolvimento de Sistemas pela Etec Guarulhos.
