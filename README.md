@@ -1,6 +1,6 @@
 <!-- [](https://komarev.com/ghpvc/?username=erickdaniela&color=006bed) -->
 
-Hello my name is Erick Daniel have 21 years old and
+Hello my name is Erick Daniel have 21 years old
 
 ## About me
 
