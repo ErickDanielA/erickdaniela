@@ -1,6 +1,6 @@
 <!-- [](https://komarev.com/ghpvc/?username=erickdaniela&color=006bed) -->
 
-*Hello my name is Erick Daniel have 21 years old and I am very happy and I like to study*
+*Hello my name is Erick Daniel have 21 years old and I am very happy and I like to study a lot*
 
 ## About me
 
