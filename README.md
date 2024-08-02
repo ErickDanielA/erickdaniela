@@ -9,6 +9,8 @@
  -->
 **🎓 Técnico em Desenvolvimento de Sistemas pela Etec de Guarulhos.**<br>
 **🎓 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas.**
+
+**Trabalhando na ETEC Paulino Botelho**
  
 -  Estudando ![React](https://img.shields.io/badge/-React-333333?logo=react) 
 ![Node.js](https://img.shields.io/badge/Node.js-333333?logo=node.js)
